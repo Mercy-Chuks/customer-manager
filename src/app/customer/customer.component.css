@@ -1,15 +1,23 @@
 
 button {
   margin: 0 20px;
+  background-color: aliceblue !important;
 }
 mat-form-field {
   border-radius: 8px !important;
   margin: 0 8px !important;
 }
+.header-row {
+  background-color: rgb(161, 191, 218) !important;
+}
 .example-button-container {
   display: flex;
   align-items: center !important;
   justify-content: center !important;
+}
+.demo-table {
+  background-color: rgb(241, 238, 238)!important;
+
 }
 mat-icon {
   margin: 0 10px;

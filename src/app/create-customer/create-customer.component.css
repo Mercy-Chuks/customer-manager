@@ -5,6 +5,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column !important;
+
 }
 .logo {
   cursor: pointer !important;
@@ -13,10 +14,10 @@ h2 {
   text-align: center;
 }
 .example-form {
-  max-width: 500px;
+  max-width: 300px;
   margin: auto;
-  padding: 50px 20px;
-  background-color: #f9f9f9;
+  padding: 30px 20px;
+  background-color: rgb(233, 227, 227);
   border-radius: 30px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
@@ -26,7 +27,7 @@ h2 {
 }
 
 mat-form-field {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .example-icon {
@@ -35,6 +36,6 @@ mat-form-field {
 
 button {
   width: 100%;
-  background-color: green !important;
-  color: white !important;
+  background-color: rgb(35, 35, 228) !important;
+  color: black !important;
 }

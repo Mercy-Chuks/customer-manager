@@ -20,6 +20,6 @@ h1 {
 
 button {
   width: 100% !important;
-  background-color: green !important;
-  color: white !important;
+  background-color: rgb(35, 35, 228) !important;
+  color: black !important;
 }
